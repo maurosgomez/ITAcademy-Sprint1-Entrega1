@@ -1,7 +1,7 @@
  <!-- FOOTER -->
 
-        <footer>
-                <p>&copy Copyright 2021 - <a href="index.php">MS Web Design</a></p>
-        </footer>
-    </body>
-</html>
+ <footer>
+    <div class="content-footer">
+        <p>&copy Copyright 2021 - MS Web Design</p>
+    </div>
+</footer>
